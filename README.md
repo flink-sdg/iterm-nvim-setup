@@ -80,3 +80,17 @@ export PROMPT='%{$fg[blue]%} ${vcs_info_msg_0_}  %F{241}﬌ %d ﬋${NEWLIN
 
 
 
+
+
+export LUA_PATH
+
+PlugInstall
+
+
+notes on nvim-lspconfig https://github.com/neovim/nvim-lspconfig
+
+for details on specific LSP: https://github.com/neovim/nvim-lspconfig/blob/master/doc/server_configurations.md
+
+for details on options for servers see start client under https://neovim.io/doc/user/lsp.html
+
+notes on nvim-lsp-installer. https://github.com/williamboman/nvim-lsp-installer
