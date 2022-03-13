@@ -94,3 +94,9 @@ for details on specific LSP: https://github.com/neovim/nvim-lspconfig/blob/maste
 for details on options for servers see start client under https://neovim.io/doc/user/lsp.html
 
 notes on nvim-lsp-installer. https://github.com/williamboman/nvim-lsp-installer
+
+
+
+
+
+https://neovim.io/doc/user/quickref.html
