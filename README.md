@@ -91,7 +91,7 @@ notes on nvim-lspconfig https://github.com/neovim/nvim-lspconfig
 
 for details on specific LSP: https://github.com/neovim/nvim-lspconfig/blob/master/doc/server_configurations.md
 
-for details on options for servers see start client under https://neovim.io/doc/user/lsp.html
+for details on options for servers see start client under https://neovim.io/doc/user/lsp.html  start_client({config})
 
 notes on nvim-lsp-installer. https://github.com/williamboman/nvim-lsp-installer
 
