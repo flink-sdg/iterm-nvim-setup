@@ -1,0 +1,23 @@
+{
+  "name": "iterm-nvim-setup",
+  "version": "1.0.0",
+  "description": "install & update iterm2 https://iterm2.com/downloads.html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flink-sdg/iterm-nvim-setup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flink-sdg/iterm-nvim-setup/issues"
+  },
+  "homepage": "https://github.com/flink-sdg/iterm-nvim-setup#readme",
+  "dependencies": {
+    "remark": "^14.0.2"
+  }
+}
