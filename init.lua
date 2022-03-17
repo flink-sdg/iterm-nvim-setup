@@ -1,4 +1,6 @@
-require('user.options')
-require('user.keybindings')
 require('user.vim-plug')
 require('user.lsp-installer')
+require('user.cmp')
+require('user.autopairs')
+require('user.keybindings')
+require('user.options')
