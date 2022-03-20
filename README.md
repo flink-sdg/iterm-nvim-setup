@@ -12,6 +12,16 @@ install oh my zsh https://ohmyz.sh/
 
 
 
+FOR ARCH: fonts go here
+
+~/.local/share/fonts
+or
+
+/usr/local/share/fonts
+
+Then run command fc-cache and restart terminal
+
+
 
 
 install nerd fonts - they go into ~/Library/Fonts Fonts I like:
