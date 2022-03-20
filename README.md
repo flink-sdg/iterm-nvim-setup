@@ -112,4 +112,16 @@ notes on nvim-lsp-installer. https://github.com/williamboman/nvim-lsp-installer
 https://neovim.io/doc/user/quickref.html
 
 
+
+To disable boot menu:
+
+sudo nvim /etc/default/grub
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+
+Set GRUB_TIMEOUT=0
+
+
+
+
+
 npm i -g vscode-langservers-extracted -- for html and what not ** wondering if we need this. things seem to work, maybe bug in LSP init...
