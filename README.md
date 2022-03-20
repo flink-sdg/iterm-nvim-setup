@@ -32,7 +32,7 @@ update colors using flink.intermcolors
 
 
 
-
+https://github.com/vifo/xfce4-terminal-colorschemes
 
 
 
