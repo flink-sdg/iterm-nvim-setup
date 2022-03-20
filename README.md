@@ -125,3 +125,8 @@ Set GRUB_TIMEOUT=0
 
 
 npm i -g vscode-langservers-extracted -- for html and what not ** wondering if we need this. things seem to work, maybe bug in LSP init...
+
+
+install swaylock-effects and remove swaylock:
+
+https://github.com/mortie/swaylock-effects
